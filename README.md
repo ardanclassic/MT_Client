@@ -7,10 +7,11 @@ Which is you can see to the [server side](https://github.com/ardanclassic/MT_Ser
 
 ### Visit Live Demo : [Register Test](https://register-client.netlify.com)
 
-### Tech Stack
+### UI Tech Stack
   - React JS
   - Axios
   - React Bootstrap
+  - Promise (Async Await)
   - SASS
   - Formik
   - Yup
